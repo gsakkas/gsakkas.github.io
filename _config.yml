@@ -1,3 +1,5 @@
-theme: jekyll-theme-dinky
 title: Georgios Sakkas
-name: Georgios Sakkas
+description: 
+introduction: I am currently at my senior year studying Electrical and Computer Engineering at National Technical University of Athens. My main research interests are Program Analysis and Program Synthesis.
+google_analytics:
+theme: jekyll-theme-dinky

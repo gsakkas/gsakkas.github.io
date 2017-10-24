@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+# Hello, I'm George Sakkas
+
+I am currently at my senior year studying Electrical and Computer Engineering at National Technical University of Athens. My main research interests are Program Analysis and Program Synthesis.
+
+

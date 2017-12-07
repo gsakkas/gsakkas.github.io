@@ -11,6 +11,6 @@ I grew up in Kalamata, a sleepy beach town in Greece. My name is Georgios (Greek
 
 # What Do I Do
 
-Nowadays, I work mainly on my thesis while also doing an internship at [PwC Greece](https://www.pwc.com/gr/en.html). Additionally, I am studying about automated program synthesis, as I am particularly interested in radically simplifing programming and making it accessible to all users.
+Nowadays, I work mainly on my thesis recently finished an internship at [PwC Greece](https://www.pwc.com/gr/en.html). Additionally, I am studying about automated program synthesis, as I am particularly interested in radically simplifing programming and making it accessible to all users. I am also trying to implement my own tool for inductive program synthesis from input-output examples, using neural networks to speed up the search process over the program state space.
 
-My main research interests therefore revolve around the fascinating field of the theory and implementation of Programming Languages and I am specifically interested in the areas of Program Analysis and Program Synthesis.
+My main research interests revolve around the fascinating field of the theory and implementation of Programming Languages and I am specifically interested in the areas of Program Analysis and Program Synthesis. I love working on projects about those topics with my friends and fellow students, and integrate knowledge from various CS fields into these projects.

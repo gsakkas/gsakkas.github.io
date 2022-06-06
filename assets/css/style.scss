@@ -1,28 +1,42 @@
 ---
 ---
 
-@import 'jekyll-theme-dinky';
-
-a.linkedin {
-  background: none;
-  padding: 2px 2px 2px 2px; }
+@import "{{ site.theme }}";
 
 header {
-  width: 250px; }
-
-.wrapper {
-  width: 1050px; }
-
-a.aboutme {
-  color: #BCE3FF;
-  text-decoration: none;
-  font-weight: bold; }
-
-a.aboutme:hover {
-    color: #62BCFF;
-    font-weight: bold;
-    font-style: italic;
+  width: 20%;
+  // padding: 2% 1% 2% 3%;
+  // background-color: #fff4ca;
+  padding-bottom: 2%;
+  border-right: 2px solid rgb(194, 194, 194);
 }
 
+.wrapper {
+  width: 80%; 
+}
+
+.profile-pic {
+  margin-bottom: 4%;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 75%;
+}
+
+.icon-links {
+  width: 18%;
+}
+
+// a.aboutme {
+//   color: #BCE3FF;
+//   text-decoration: none;
+//   font-weight: bold; }
+
+// a.aboutme:hover {
+//     color: #62BCFF;
+//     font-weight: bold;
+//     font-style: italic;
+// }
+
 section {
-  width: 660px; }
+  width: 65%; 
+}

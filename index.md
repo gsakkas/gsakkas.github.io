@@ -13,7 +13,7 @@ My name is Georgios or Yiorgos (Greek: *Γεώργιος* or *Γιώργος*) b
 
 # Research
 My most recent publications include:
-- **Georgios Sakkas**, Madeline Endres, Philip J. Guo, Westley Weimer, Ranjit Jhala. *__"Seq2Parse: Neurosymbolic Parse Error Repair"__*, (Submitted to OOPSLA 2022)
+- **Georgios Sakkas**, Madeline Endres, Philip J. Guo, Westley Weimer, Ranjit Jhala. *__"Subtracted for blind submission"__*, (Submitted to OOPSLA 2022)
 - **Georgios Sakkas**, Madeline Endres, Benjamin Cosman, Westley Weimer, Ranjit Jhala. *__"Type Error Feedback via Analytic Program Repair"__*, Programming Languages Design and Implementation (PLDI) 2020: Pages 16-30
 - Benjamin Cosman, Madeline Endres, **Georgios Sakkas**, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri, Westley Weimer. *__"PABLO: Helping Novices Debug Python Code Through Data-Driven Fault Localization"__*, Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium 2020
 - Madeline Endres, **Georgios Sakkas**, Benjamin Cosman, Ranjit Jhala, Westley Weimer. *__"InFix: Automatically Repairing Novice Program Inputs"__*, Automated Software Engineering (ASE) 2019

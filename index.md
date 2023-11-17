@@ -13,9 +13,9 @@ My name is Georgios or Yiorgos (Greek: *Γεώργιος* or *Γιώργος*) b
 
 # Research
 My most recent publications include:
-- Shuvendu K Lahiri*, Aaditya Naik*, **Georgios Sakkas\***, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang and Jianfeng Gao (\* equal contribution). arXiv preprint Aug. 2022 (Updated version submitted to ICSE 2023).
-- **Georgios Sakkas**, Madeline Endres, Philip J. Guo, Westley Weimer, Ranjit Jhala. *__"Seq2Parse: Neurosymbolic Parse Error Repair"__*, Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022
-- **Georgios Sakkas**, Madeline Endres, Benjamin Cosman, Westley Weimer, Ranjit Jhala. *__"Type Error Feedback via Analytic Program Repair"__*, Programming Languages Design and Implementation (PLDI) 2020: Pages 16-30
+- Shuvendu K Lahiri*, Aaditya Naik*, **Georgios Sakkas\***, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang and Jianfeng Gao (\* equal contribution). *__"Interactive Code Generation via Test-Driven User-Intent Formalization”__*, arXiv preprint Aug. 2022 (Updated version submitted to ICSE 2023). [Link](https://arxiv.org/pdf/2208.05950.pdf) to paper.
+- **Georgios Sakkas**, Madeline Endres, Philip J. Guo, Westley Weimer, Ranjit Jhala. *__"Seq2Parse: Neurosymbolic Parse Error Repair"__*, Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022. [Link](assets/seq2parse_ooplsa_2022.pdf) to paper.
+- **Georgios Sakkas**, Madeline Endres, Benjamin Cosman, Westley Weimer, Ranjit Jhala. *__"Type Error Feedback via Analytic Program Repair"__*, Programming Languages Design and Implementation (PLDI) 2020: Pages 16-30. [Link](assets/rite_pldi_2020.pdf) to paper.
 - Benjamin Cosman, Madeline Endres, **Georgios Sakkas**, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri, Westley Weimer. *__"PABLO: Helping Novices Debug Python Code Through Data-Driven Fault Localization"__*, Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium 2020
 - Madeline Endres, **Georgios Sakkas**, Benjamin Cosman, Ranjit Jhala, Westley Weimer. *__"InFix: Automatically Repairing Novice Program Inputs"__*, Automated Software Engineering (ASE) 2019
 - Spyros K. Chandrinos, **Georgios Sakkas**, Nikos D. Lagaros. *__"AIRMS: A Risk Management Tool using Machine Learning"__*, Journal of Expert Systems with Applications, Expert Systems with Applications, Volume 105, 1 September 2018, Pages 34-48

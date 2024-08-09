@@ -11,6 +11,10 @@ header {
   border-right: 2px solid rgb(194, 194, 194);
 }
 
+h1.header {
+	font-size: 50px;
+}
+
 .wrapper {
   width: 80%;
 }
@@ -41,6 +45,6 @@ section {
   width: 65%;
 }
 
-h3 {
-  margin-bottom: 0px;
+section h3 {
+  margin-bottom: 2px;
 }

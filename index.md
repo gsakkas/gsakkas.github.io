@@ -52,20 +52,20 @@ My most recent publications include:
     - Sarah Fakhoury*, Aaditya Naik*, __Georgios Sakkas__\*, Saikat Chakraborty, Madan Musuvathi, Shuvendu K Lahiri (\*equal contribution)
     - International Conference on Software Engineering: Companion Proceedings (ICSE) 2024 [[Paper]](assets/ticoder_icse_2024.pdf)
 3. *__Seq2Parse: Neurosymbolic Parse Error Repair__*
-    - __Georgios Sakkas__, Madeline Endres, Philip J. Guo, Westley Weimer, and Ranjit Jhala
+    - __Georgios Sakkas__, Madeline Endres, Philip J. Guo, Westley Weimer, Ranjit Jhala
     - Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022 [[Paper]](assets/seq2parse_ooplsa_2022.pdf) [[Code]](https://github.com/gsakkas/seq2parse)
 4. *__Interactive Code Generation via Test-Driven User-Intent Formalization__*
-    - Shuvendu K Lahiri*, Aaditya Naik*, __Georgios Sakkas__\*, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang and Jianfeng Gao (\*equal contribution)
+    - Shuvendu K Lahiri*, Aaditya Naik*, __Georgios Sakkas__\*, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao (\*equal contribution)
     - arXiv preprint Aug. 2022 [[Paper]](https://arxiv.org/pdf/2208.05950.pdf)
 5. *__Type Error Feedback via Analytic Program Repair__*
-    - __Georgios Sakkas__, Madeline Endres, Benjamin Cosman, Westley Weimer and Ranjit Jhala
+    - __Georgios Sakkas__, Madeline Endres, Benjamin Cosman, Westley Weimer, Ranjit Jhala
     - Programming Languages Design and Implementation (PLDI) 2020 [[Paper]](assets/rite_pldi_2020.pdf) [[Code]](https://github.com/gsakkas/rite)
 6. *__PABLO: Helping Novices Debug Python Code Through Data-Driven Fault Localization__*
-    - Benjamin Cosman, Madeline Endres, __Georgios Sakkas__, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri and Westley Weimer
+    - Benjamin Cosman, Madeline Endres, __Georgios Sakkas__, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri, Westley Weimer
     - Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium 2020 [[Paper]](http://yyyang.me/docs/paper/BC20pablo.pdf)
 7. *__InFix: Automatically Repairing Novice Program Inputs__*
-    - Madeline Endres, __Georgios Sakkas__, Benjamin Cosman, Ranjit Jhala and Westley Weimer
+    - Madeline Endres, __Georgios Sakkas__, Benjamin Cosman, Ranjit Jhala, Westley Weimer
     - Automated Software Engineering (ASE) 2019. [[Paper]](https://web.eecs.umich.edu/~weimerw/p/weimer-ase2019-infix.pdf)
 8. *__AIRMS: A Risk Management Tool using Machine Learning__*
-    - Spyros K. Chandrinos, __Georgios Sakkas__ and Nikos D. Lagaros
+    - Spyros K. Chandrinos, __Georgios Sakkas__, Nikos D. Lagaros
     - Journal of Expert Systems with Applications, Volume 105, 1 September 2018

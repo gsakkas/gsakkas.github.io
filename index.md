@@ -6,6 +6,8 @@ overview: true
 
 # About Me
 
+_**Update**_ I am on the industry job market! I am looking for research or software engineering positions on program synthesis, program repair, LLM code generation, intelligent coding assistants etc.
+
 I am a PhD candidate in the [Computer Science & Engineering](https://cse.ucsd.edu/) (CSE) department at [UC San Diego](https://ucsd.edu/), where I conduct research in [Programming Languages](https://cseweb.ucsd.edu/groups/progsys/) with my advisor Prof. [Ranjit Jhala](http://ranjitjhala.github.io/). My current research focuses on developing tools that make software development, programming, and debugging easier. Specifically, I work on Automated Program Repair and Synthesis, aiming to create fast and reliable tools by combining traditional Programming Languages (PL) research with state-of-the-art Machine Learning (ML) techniques.
 
 Previously, I did my undergraduate studies on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) at [National Technical University of Athens](https://www.ntua.gr/en/), where I also worked on my thesis on "Resumption Monad Transformers and their Applications in the Semantics of Concurrency" under the supervision of Prof. [Nikolaos Papaspyrou](http://www.softlab.ntua.gr/~nickie/).

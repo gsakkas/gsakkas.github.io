@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Georgios Sakkas
 overview: true
 ---
 
@@ -14,20 +15,15 @@ My name is Georgios or Yiorgos (Greek: *Γεώργιος* or *Γιώργος*) b
 # Work & Research Experience
 A comprehensive list of my work and research experience is available in my most recent resume: [Georgios Sakkas' CV](assets/Georgios_Sakkas_CV.pdf)
 
-#### Microsoft Research (Redmond, WA, U.S.A.) Jun. 2022 - Sep. 2022
-
-- *__Research Intern__* at the Research in Software Engineering (RiSE) Group working with Shuvendu Lahiri
-- Publication on interactive code generation via test-driven user intent formalization, using program synthesis, static analysis, and state-of-the-art LLMs (Codex, InCoder, CodeGen etc.)
-
-#### Amazon.com (San Francisco, CA, U.S.A.) Jun. 2021 - Sep. 2021
-
-- *__Applied Scientist Intern__* at the CodeGuru Reviewer team of the Automated Reasoning Group
-- Extended a taint-analysis tool’s data-flow operations to capture constraints and add path sensitivity to the analysis
-
-### Bloomberg L.P. (New York, NY, U.S.A.) Jun. 2020 - Aug. 2020
-
-- *__Software Engineer Intern__* at the Static Analysis & Automated Refactoring team of the Developer Experience group
-- Implemented a new automated control-flow refactoring tool for legacy Fortran code
+- __Microsoft Research (Redmond, WA, U.S.A.) Jun. 2022 - Sep. 2022__
+    1. *__Research Intern__* at the Research in Software Engineering (RiSE) Group working with Shuvendu Lahiri
+    1. Publication on interactive code generation via test-driven user intent formalization, using program synthesis, static analysis, and state-of-the-art LLMs (Codex, InCoder, CodeGen etc.)
+- __Amazon.com (San Francisco, CA, U.S.A.) Jun. 2021 - Sep. 2021__
+    1. *__Applied Scientist Intern__* at the CodeGuru Reviewer team of the Automated Reasoning Group
+    1. Extended a taint-analysis tool’s data-flow operations to capture constraints and add path sensitivity to the analysis
+- __Bloomberg L.P. (New York, NY, U.S.A.) Jun. 2020 - Aug. 2020__
+    1. *__Software Engineer Intern__* at the Static Analysis & Automated Refactoring team of the Developer Experience group
+    1. Implemented a new automated control-flow refactoring tool for legacy Fortran code
 
 
 # Research

@@ -6,7 +6,9 @@ overview: true
 
 # About Me
 
-_**Update**_ I am on the industry job market! I am looking for research or software engineering positions on program synthesis, program repair, LLM code generation, intelligent coding assistants etc. to start October 2024.
+```
+Update: I am on the industry job market! I am looking for research or software engineering positions on program synthesis, program repair, LLM code generation, intelligent coding assistants etc. to start October 2024.
+```
 
 I am a PhD candidate in the [Computer Science & Engineering](https://cse.ucsd.edu/) (CSE) department at [UC San Diego](https://ucsd.edu/), where I conduct research in [Programming Languages](https://cseweb.ucsd.edu/groups/progsys/) with my advisor Prof. [Ranjit Jhala](http://ranjitjhala.github.io/). My current research focuses on developing tools that make software development, programming, and debugging easier. Specifically, I work on Automated Program Repair and Synthesis, aiming to create fast and reliable tools by combining traditional Programming Languages (PL) research with state-of-the-art Machine Learning (ML) techniques.
 

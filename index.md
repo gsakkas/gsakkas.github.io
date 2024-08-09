@@ -4,9 +4,9 @@ title: Georgios Sakkas
 overview: true
 ---
 
-# About Me
+## _**Update**_ I am on the industry job market! I am looking for research or software engineering positions on program synthesis, program repair, LLM code generation, intelligent coding assistants etc. to start October 2024.
 
-### _**Update**_ I am on the industry job market! I am looking for research or software engineering positions on program synthesis, program repair, LLM code generation, intelligent coding assistants etc. to start October 2024.
+# About Me
 
 I am a PhD candidate in the [Computer Science & Engineering](https://cse.ucsd.edu/) (CSE) department at [UC San Diego](https://ucsd.edu/), where I conduct research in [Programming Languages](https://cseweb.ucsd.edu/groups/progsys/) with my advisor Prof. [Ranjit Jhala](http://ranjitjhala.github.io/). My current research focuses on developing tools that make software development, programming, and debugging easier. Specifically, I work on Automated Program Repair and Synthesis, aiming to create fast and reliable tools by combining traditional Programming Languages (PL) research with state-of-the-art Machine Learning (ML) techniques.
 
@@ -39,34 +39,33 @@ A comprehensive list of my work and research experience is available in my most 
 
 ### __Rutgers, The State University of New Jersey__ *(U.S.A., Jul. 2016 - Aug. 2016)*
 - *__Visiting Research Student__* at the ParaMathics group — Supervisor: Assistant Prof. Maryam Dehnavi
-- Worked on High Performance Computing, Parallel Computing, Testing in HPCs (XSEDE, Stampede)
-- Cache Oblivious Algorithms: Implemented algorithms in a Cache Oblivious manner in C/C++ & parallel versions of them using OpenMP, Cilk and MPI; Tested on XSEDE supercomputers for scalability and performanc
+- Worked on Cache Oblivious Algorithms, High Performance Computing, Parallel Computing, Testing in HPCs (XSEDE, Stampede)
 
 # Research
 My most recent publications include:
 
 1. *__Title omitted for double-blind review__*
-    - **Georgios Sakkas**, Pratyush Sahu, Kyeling Ong, Ranjit Jhala
-    - Work on LLMs and Program Verification.
-    - Submitted to ICSE 2025.
+    - __Georgios Sakkas__, Pratyush Sahu, Kyeling Ong, Ranjit Jhala
+    - Work on LLMs and Program Verification
+    - Submitted to ICSE 2025
 2. *__Exploring the Effectiveness of LLM based Test-driven Interactive Code Generation: User Study and Empirical Evaluation__*
-    - Sarah Fakhoury*, Aaditya Naik*, **Georgios Sakkas***, Saikat Chakraborty, Madan Musuvathi, Shuvendu K Lahiri (*equal contribution)
-    - International Conference on Software Engineering: Companion Proceedings (ICSE) 2024. [[Paper]](assets/ticoder_icse_2024.pdf)
+    - Sarah Fakhoury*, Aaditya Naik*, __Georgios Sakkas__\*, Saikat Chakraborty, Madan Musuvathi, Shuvendu K Lahiri (\*equal contribution)
+    - International Conference on Software Engineering: Companion Proceedings (ICSE) 2024 [[Paper]](assets/ticoder_icse_2024.pdf)
 3. *__Seq2Parse: Neurosymbolic Parse Error Repair__*
-    - **Georgios Sakkas**, Madeline Endres, Philip J. Guo, Westley Weimer, and Ranjit Jhala
-    - Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022. [[Paper]](assets/seq2parse_ooplsa_2022.pdf) [[Code]](https://github.com/gsakkas/seq2parse)
+    - __Georgios Sakkas__, Madeline Endres, Philip J. Guo, Westley Weimer, and Ranjit Jhala
+    - Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022 [[Paper]](assets/seq2parse_ooplsa_2022.pdf) [[Code]](https://github.com/gsakkas/seq2parse)
 4. *__Interactive Code Generation via Test-Driven User-Intent Formalization__*
-    - Shuvendu K Lahiri*, Aaditya Naik*, **Georgios Sakkas***, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang and Jianfeng Gao (*equal contribution)
-    - arXiv preprint Aug. 2022. [[Paper]](https://arxiv.org/pdf/2208.05950.pdf)
+    - Shuvendu K Lahiri*, Aaditya Naik*, __Georgios Sakkas__\*, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang and Jianfeng Gao (\*equal contribution)
+    - arXiv preprint Aug. 2022 [[Paper]](https://arxiv.org/pdf/2208.05950.pdf)
 5. *__Type Error Feedback via Analytic Program Repair__*
-    - **Georgios Sakkas**, Madeline Endres, Benjamin Cosman, Westley Weimer and Ranjit Jhala
-    - Programming Languages Design and Implementation (PLDI) 2020. [[Paper]](assets/rite_pldi_2020.pdf) [[Code]](https://github.com/gsakkas/rite)
+    - __Georgios Sakkas__, Madeline Endres, Benjamin Cosman, Westley Weimer and Ranjit Jhala
+    - Programming Languages Design and Implementation (PLDI) 2020 [[Paper]](assets/rite_pldi_2020.pdf) [[Code]](https://github.com/gsakkas/rite)
 6. *__PABLO: Helping Novices Debug Python Code Through Data-Driven Fault Localization__*
-    - Benjamin Cosman, Madeline Endres, **Georgios Sakkas**, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri and Westley Weimer
-    - Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium 2020. [[Paper]](http://yyyang.me/docs/paper/BC20pablo.pdf)
+    - Benjamin Cosman, Madeline Endres, __Georgios Sakkas__, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri and Westley Weimer
+    - Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium 2020 [[Paper]](http://yyyang.me/docs/paper/BC20pablo.pdf)
 7. *__InFix: Automatically Repairing Novice Program Inputs__*
-    - Madeline Endres, **Georgios Sakkas**, Benjamin Cosman, Ranjit Jhala and Westley Weimer
+    - Madeline Endres, __Georgios Sakkas__, Benjamin Cosman, Ranjit Jhala and Westley Weimer
     - Automated Software Engineering (ASE) 2019. [[Paper]](https://web.eecs.umich.edu/~weimerw/p/weimer-ase2019-infix.pdf)
 8. *__AIRMS: A Risk Management Tool using Machine Learning__*
-    - Spyros K. Chandrinos, **Georgios Sakkas** and Nikos D. Lagaros
-    - Journal of Expert Systems with Applications, Volume 105, 1 September 2018.
+    - Spyros K. Chandrinos, __Georgios Sakkas__ and Nikos D. Lagaros
+    - Journal of Expert Systems with Applications, Volume 105, 1 September 2018

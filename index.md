@@ -50,7 +50,7 @@ My most recent publications include:
 - Submitted to ICSE 2025
 
 ### 2. *__Exploring the Effectiveness of LLM based Test-driven Interactive Code Generation: User Study and Empirical Evaluation__*
-- Sarah Fakhoury*, Aaditya Naik*, __Georgios Sakkas__\*, Saikat Chakraborty, Madan Musuvathi, Shuvendu K Lahiri (\*equal contribution)
+- Sarah Fakhoury\*, Aaditya Naik\*, __Georgios Sakkas__\*, Saikat Chakraborty, Madan Musuvathi, Shuvendu K Lahiri (\*equal contribution)
 - International Conference on Software Engineering: Companion Proceedings (ICSE) 2024 [[Paper]](assets/ticoder_icse_2024.pdf)
 
 ### 3. *__Seq2Parse: Neurosymbolic Parse Error Repair__*
@@ -58,7 +58,7 @@ My most recent publications include:
 - Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022 [[Paper]](assets/seq2parse_ooplsa_2022.pdf) [[Code]](https://github.com/gsakkas/seq2parse)
 
 ### 4. *__Interactive Code Generation via Test-Driven User-Intent Formalization__*
-- Shuvendu K Lahiri*, Aaditya Naik*, __Georgios Sakkas__\*, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao (\*equal contribution)
+- Shuvendu K Lahiri\*, Aaditya Naik\*, __Georgios Sakkas__\*, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao (\*equal contribution)
 - arXiv preprint Aug. 2022 [[Paper]](https://arxiv.org/pdf/2208.05950.pdf)
 
 ### 5. *__Type Error Feedback via Analytic Program Repair__*

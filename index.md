@@ -15,7 +15,8 @@ My name is Georgios or Yiorgos (Greek: *Γεώργιος* or *Γιώργος*) b
 # Work & Research Experience
 A comprehensive list of my work and research experience is available in my most recent resume: [Georgios Sakkas' CV](assets/Georgios_Sakkas_CV.pdf)
 
-### __UC San Diego, U.S.A. Sep. 2018 - Present__
+### __UC San Diego, U.S.A. <div style="text-align: right"> Sep. 2018 - Present </div>__
+
 - *__PhD Candidate__* in Programming Systems group -- Advisor: Prof. Ranjit Jhala
 - Focus: Neurosymbolic Program Repair using Programming Languages & Machine Learning research, including Formal Methods, Static Analysis, Neural Networks & LLMs
 

@@ -29,9 +29,29 @@ A comprehensive list of my work and research experience is available in my most 
 
 # Research
 My most recent publications include:
-- Shuvendu K Lahiri*, Aaditya Naik*, **Georgios Sakkas\***, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang and Jianfeng Gao (\* equal contribution). *__"Interactive Code Generation via Test-Driven User-Intent Formalization”__*, arXiv preprint Aug. 2022 (Updated version submitted to ICSE 2023). [Link](https://arxiv.org/pdf/2208.05950.pdf) to paper.
-- **Georgios Sakkas**, Madeline Endres, Philip J. Guo, Westley Weimer, Ranjit Jhala. *__"Seq2Parse: Neurosymbolic Parse Error Repair"__*, Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022. [Link](assets/seq2parse_ooplsa_2022.pdf) to paper.
-- **Georgios Sakkas**, Madeline Endres, Benjamin Cosman, Westley Weimer, Ranjit Jhala. *__"Type Error Feedback via Analytic Program Repair"__*, Programming Languages Design and Implementation (PLDI) 2020: Pages 16-30. [Link](assets/rite_pldi_2020.pdf) to paper.
-- Benjamin Cosman, Madeline Endres, **Georgios Sakkas**, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri, Westley Weimer. *__"PABLO: Helping Novices Debug Python Code Through Data-Driven Fault Localization"__*, Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium 2020
-- Madeline Endres, **Georgios Sakkas**, Benjamin Cosman, Ranjit Jhala, Westley Weimer. *__"InFix: Automatically Repairing Novice Program Inputs"__*, Automated Software Engineering (ASE) 2019
-- Spyros K. Chandrinos, **Georgios Sakkas**, Nikos D. Lagaros. *__"AIRMS: A Risk Management Tool using Machine Learning"__*, Journal of Expert Systems with Applications, Expert Systems with Applications, Volume 105, 1 September 2018, Pages 34-48
+
+1. *__Title omitted for double-blind review__*
+    - **Georgios Sakkas**, Pratyush Sahu, Kyeling Ong, Ranjit Jhala
+    - Work on LLMs and Program Verification.
+    - Submitted to ICSE 2025.
+2. *__Exploring the Effectiveness of LLM based Test-driven Interactive Code Generation: User Study and Empirical Evaluation__*
+    - Sarah Fakhoury*, Aaditya Naik*, **Georgios Sakkas***, Saikat Chakraborty, Madan Musuvathi, Shuvendu K Lahiri (*equal contribution)
+    - International Conference on Software Engineering: Companion Proceedings (ICSE) 2024. [[Paper]](assets/ticoder_icse_2024.pdf)
+3. *__Seq2Parse: Neurosymbolic Parse Error Repair__*
+    - **Georgios Sakkas**, Madeline Endres, Philip J. Guo, Westley Weimer, and Ranjit Jhala
+    - Proceedings of the ACM on Programming Languages 6, Article 167 (OOPSLA) 2022. [[Paper]](assets/seq2parse_ooplsa_2022.pdf) [[Code]](https://github.com/gsakkas/seq2parse)
+4. *__Interactive Code Generation via Test-Driven User-Intent Formalization__*
+    - Shuvendu K Lahiri*, Aaditya Naik*, **Georgios Sakkas***, Piali Choudhury, Curtis von Veh, Madanlal Musuvathi, Jeevana Priya Inala, Chenglong Wang and Jianfeng Gao (*equal contribution)
+    - arXiv preprint Aug. 2022. [[Paper]](https://arxiv.org/pdf/2208.05950.pdf)
+5. *__Type Error Feedback via Analytic Program Repair__*
+    - **Georgios Sakkas**, Madeline Endres, Benjamin Cosman, Westley Weimer and Ranjit Jhala
+    - Programming Languages Design and Implementation (PLDI) 2020. [[Paper]](assets/rite_pldi_2020.pdf) [[Code]](https://github.com/gsakkas/rite)
+6. *__PABLO: Helping Novices Debug Python Code Through Data-Driven Fault Localization__*
+    - Benjamin Cosman, Madeline Endres, **Georgios Sakkas**, Leon Medvinsky, Yao-Yuan Yang, Ranjit Jhala, Kamalika Chaudhuri and Westley Weimer
+    - Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium 2020. [[Paper]](http://yyyang.me/docs/paper/BC20pablo.pdf)
+7. *__InFix: Automatically Repairing Novice Program Inputs__*
+    - Madeline Endres, **Georgios Sakkas**, Benjamin Cosman, Ranjit Jhala and Westley Weimer
+    - Automated Software Engineering (ASE) 2019. [[Paper]](https://web.eecs.umich.edu/~weimerw/p/weimer-ase2019-infix.pdf)
+8. *__AIRMS: A Risk Management Tool using Machine Learning__*
+    - Spyros K. Chandrinos, **Georgios Sakkas** and Nikos D. Lagaros
+    - Journal of Expert Systems with Applications, Volume 105, 1 September 2018.

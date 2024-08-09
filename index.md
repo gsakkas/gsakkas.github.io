@@ -15,23 +15,30 @@ My name is Georgios or Yiorgos (Greek: *Γεώργιος* or *Γιώργος*) b
 # Work & Research Experience
 A comprehensive list of my work and research experience is available in my most recent resume: [Georgios Sakkas' CV](assets/Georgios_Sakkas_CV.pdf)
 
-### __UC San Diego, U.S.A.__ __*(Sep. 2018 - Present)*__
-
-- *__PhD Candidate__* in Programming Systems group -- Advisor: Prof. Ranjit Jhala
+### __UC San Diego__ *(U.S.A., Sep. 2018 - Present)*
+- *__PhD Candidate__* at the Programming Systems group -- Advisor: Prof. Ranjit Jhala
 - Focus: Neurosymbolic Program Repair using Programming Languages & Machine Learning research, including Formal Methods, Static Analysis, Neural Networks & LLMs
 
-### __Microsoft Research (Redmond, WA, U.S.A.)__ __*(Jun. 2022 - Sep. 2022)*__
-- *__Research Intern__* at the Research in Software Engineering (RiSE) Group working with Shuvendu Lahiri
+### __Microsoft Research__ *(Redmond, WA, U.S.A., Jun. 2022 - Sep. 2022)*
+- *__Research Intern__* at the Research in Software Engineering (RiSE) group working with Shuvendu Lahiri
 - Publication on interactive code generation via test-driven user intent formalization, using program synthesis, static analysis, and state-of-the-art LLMs (Codex, InCoder, CodeGen etc.)
 
-### __Amazon.com (San Francisco, CA, U.S.A.)__ __*(Jun. 2021 - Sep. 2021)*__
-- *__Applied Scientist Intern__* at the CodeGuru Reviewer team of the Automated Reasoning Group
+### __Amazon.com__ *(San Francisco, CA, U.S.A., Jun. 2021 - Sep. 2021)*
+- *__Applied Scientist Intern__* at the CodeGuru Reviewer team of the Automated Reasoning group
 - Extended a taint-analysis tool’s data-flow operations to capture constraints and add path sensitivity to the analysis
 
-### __Bloomberg L.P. (New York, NY, U.S.A.)__ __*(Jun. 2020 - Aug. 2020)*__
+### __Bloomberg L.P.__ *(New York, NY, U.S.A., Jun. 2020 - Aug. 2020)*
 - *__Software Engineer Intern__* at the Static Analysis & Automated Refactoring team of the Developer Experience group
 - Implemented a new automated control-flow refactoring tool for legacy Fortran code
 
+### __National Technical University of Athens__ *(Greece, Nov. 2016 - Jul. 2018)*
+- *__Research Assistant__* at the Software Engineering Lab (Softlab) — Supervisor: Associate Prof. Nikolaos Papaspyrou
+- Thesis: Resumption Monad Transformers and their Applications in the Semantics of Concurrency
+
+### __Rutgers, The State University of New Jersey__ *(U.S.A., Jul. 2016 - Aug. 2016)*
+- *__Visiting Research Student__* at the ParaMathics group — Supervisor: Assistant Prof. Maryam Dehnavi
+- Worked on High Performance Computing, Parallel Computing, Testing in HPCs (XSEDE, Stampede)
+- Cache Oblivious Algorithms: Implemented algorithms in a Cache Oblivious manner in C/C++ & parallel versions of them using OpenMP, Cilk and MPI; Tested on XSEDE supercomputers for scalability and performanc
 
 # Research
 My most recent publications include:

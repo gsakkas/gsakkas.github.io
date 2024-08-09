@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-  width: 20%;
+  width: 30%;
   // padding: 2% 1% 2% 3%;
   // background-color: #fff4ca;
   padding-bottom: 2%;
@@ -12,14 +12,14 @@ header {
 }
 
 .wrapper {
-  width: 80%; 
+  width: 80%;
 }
 
 .profile-pic {
   margin-bottom: 4%;
   border: 2px solid black;
   border-radius: 50%;
-  width: 75%;
+  width: 50%;
 }
 
 .icon-links {
@@ -38,5 +38,5 @@ header {
 // }
 
 section {
-  width: 65%; 
+  width: 65%;
 }

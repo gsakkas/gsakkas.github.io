@@ -69,19 +69,22 @@ section h2 strong {
 }
 
 @media only screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
-
   header {
-    width: 80%;
+    width: 90%;
   }
 
 	section {
-    width: 95%;
+    width: 97%;
+  }
+
+  section h2 {
+    width: 93%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.2em;
   }
 
 	footer {
-		width: 90%;
+		width: 97%;
 	}
 }

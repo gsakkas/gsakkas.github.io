@@ -4,7 +4,7 @@ title: Georgios Sakkas
 overview: true
 ---
 
-## _**Update**_ I am on the industry job market! I am looking for research or software engineering positions on program synthesis, program repair, LLM code generation, intelligent coding assistants etc. to start October 2024.
+<!-- ## _**Update**_ I am on the industry job market! I am looking for research or software engineering positions on program synthesis, program repair, LLM code generation, intelligent coding assistants etc. to start October 2024. -->
 
 # About Me
 
@@ -44,10 +44,10 @@ A comprehensive list of my work and research experience is available in my most 
 # Publications
 My most recent publications include:
 
-### 1. *__Title omitted for double-blind review__*
+### 1. *__Neurosymbolic Modular Refinement Type Inference__*
 - __Georgios Sakkas__, Pratyush Sahu, Kyeling Ong, Ranjit Jhala
 - Work on LLMs and Program Verification
-- Submitted to ICSE 2025
+- Accepted at International Conference on Software Engineering (ICSE) 2025
 
 ### 2. *__Exploring the Effectiveness of LLM based Test-driven Interactive Code Generation: User Study and Empirical Evaluation__*
 - Sarah Fakhoury\*, Aaditya Naik\*, __Georgios Sakkas__\*, Saikat Chakraborty, Madan Musuvathi, Shuvendu K Lahiri (\*equal contribution)
